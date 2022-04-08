@@ -10,6 +10,6 @@ What I added were the constrainst so that once the attention reached a certain t
 To run this code, you must add the brain libray and download the processing code as well. 
 Then, you will run the braingrapher.pde file that can be found in the "thing" folder...great naming I know. 
 
-Also make sure to have the code uploaded to the arduino as well before attempting to run.
+Also make sure to have the code uploaded to the arduino as well before attempting to run (the brainlamp.ino file).
 
 If there are any questions, feel free to reach out to me at any time
